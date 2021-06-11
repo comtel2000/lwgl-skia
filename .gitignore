@@ -1,0 +1,16 @@
+*.class
+*.dot
+*.log
+/.settings/
+/.project
+/**/.settings/
+/**/.project
+/**/.classpath
+/**/target/
+/**/dependency-reduced-pom.xml
+/target/
+/**/*.versionsBackup
+/**/*.releaseBackup
+release.properties
+.idea
+*.iml
