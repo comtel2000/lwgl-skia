@@ -12,5 +12,6 @@ module org.comtel2000.lwgl.sample {
   requires org.lwjgl.opengl;
   requires org.slf4j;
   
-  requires skija.shared;
+  requires org.jetbrains.skija.shared;
+  requires org.jetbrains.skija.windows;
 }
